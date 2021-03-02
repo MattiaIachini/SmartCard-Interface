@@ -11,7 +11,7 @@ The datas are pass to this output PINs.
 
 ![Immagine 1](img/pin.jpg)
 
-All information can be found in the datasheet.
+All information of the PIN can be found in the datasheet.
 
 # Functionality
 - Identify the occurrence of the card;
