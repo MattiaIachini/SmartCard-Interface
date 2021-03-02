@@ -11,7 +11,9 @@ I discovery a PCB in a old packet, this PCB is use to read a smartcard and now I
 For read and process the data of the smartcard reader, I use an Arduino.
 The datas are pass to this output PINs.
 
-![Immagine 1](img/pin.jpg)
+![Immagine 3](img/pin.jpg)
+
+![Immagine 4](img/PIN-Integrato.jpg)
 
 All information of the PIN can be found in the datasheet.
 
