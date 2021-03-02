@@ -6,3 +6,5 @@ I discovery a PCB in a old packet, this PCB is use to read a smartcard and now I
 ![Immagine 1](img/sopra.jpg)
 
 # Functionality
+- Identify the occurrence of the card;
+- Read the data of the card; (WIP)
