@@ -5,7 +5,7 @@ I discovery a PCB in a old packet, this PCB is use to read a smartcard and now I
 
 ![Immagine 1](img/sopra.jpg)
 
-![Immagine 2](img/sotto.jpg)
+![Immagine 2](img/dietro.jpg)
 
 ## Mode
 For read and process the data of the smartcard reader, I use an Arduino.
