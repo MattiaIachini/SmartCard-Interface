@@ -13,6 +13,6 @@ The datas are pass to this output PINs.
 
 All information of the PIN can be found in the datasheet.
 
-# Functionality
+## Functionality
 - Identify the occurrence of the card;
 - Read the data of the card; (WIP)
