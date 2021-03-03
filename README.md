@@ -19,4 +19,6 @@ All information of the PIN can be found in the datasheet.
 
 ## Functionality
 - Identify the occurrence of the card;
-- Read the data of the card; (WIP)
+- Reading the data of the card; (WIP)
+- Visualize the data of the card; (WIP)
+- Writing the data of the card in a text file; (WIP)
